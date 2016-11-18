@@ -1,2 +1,10 @@
 # ace-material-syntax
-A syntax theme for atom text editor.
+
+A customized version of [Atom Material Syntax](https://atom.io/themes/atom-material-dark-synatx) that looks pretty natural and you never tire looking at your screen. Looks good with any **UI** theme.
+
+**UI theme:** Atom-One-Dark
+
+**Font:** Code New Roman
+
+# JS
+![Javascript](file:///home/nox/Pictures/js.png)

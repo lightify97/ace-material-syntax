@@ -7,4 +7,4 @@ A customized version of [Atom Material Syntax](https://atom.io/themes/atom-mater
 **Font:** Code New Roman
 
 # JS
-[js.png](https://postimg.org/image/nlktfa4o5/)
+[js](https://s18.postimg.org/4t8ybp8a1/image.png)

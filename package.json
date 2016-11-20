@@ -10,7 +10,7 @@
     "material",
     "dark"
   ],
-  "repository": "https://github.com/ramazan360/ace-material-syntax",
+  "repository": "git://github.com/ramazan360/ace-material-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

@@ -7,7 +7,7 @@ A customized version of [Atom Material Syntax](https://github.com/atom-material/
 **Font:** Code New Roman
 
 # C
-![screenshot of c.](preview/c.png)
+![screenshot of c.](https://postimg.org/image/8oe87q7it/)
 # CSS
 ![screenshot of css.](preview/css.png)
 # HTML

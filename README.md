@@ -1,6 +1,13 @@
 # ace-material-syntax
 
-A customized version of [Atom Material Syntax](https://github.com/atom-material/atom-material-syntax-dark) that looks pretty natural and you never tire looking at your screen.[the background feels so easy on eyes.]
+A customized version of [Atom Material Syntax](https://github.com/atom-material/atom-material-syntax-dark) that looks pretty natural and you never tire looking at your screen.[the background feels so easy on eyes.].
+
+**NOTE:** Use dark ui theme.
+## Install
+```
+apm install ace-material-syntax
+  ```
+
 ## In Screenshots:
 **UI theme:** Atom-One-Dark
 

@@ -8,10 +8,6 @@ A customized version of [Atom Material Syntax](https://github.com/atom-material/
 apm install ace-material-syntax
   ```
 
-## In Screenshots:
-**UI theme:** Atom-One-Dark
-
-**Font:** Code New Roman
 
 # C
 ![screenshot of c.](https://i.imgsafe.org/d0655ba2da.png)

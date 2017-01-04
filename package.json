@@ -1,0 +1,67 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-1161027-2197-1pbh9/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-1161027-2197-1pbh9/package.tgz",
+        "spec": "/tmp/d-1161027-2197-1pbh9/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-1161027-2197-3ysre"
+    ]
+  ],
+  "_from": "../d-1161027-2197-1pbh9/package.tgz",
+  "_id": "ace-material-syntax@1.1.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/ace-material-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-1161027-2197-1pbh9/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-1161027-2197-1pbh9/package.tgz",
+    "spec": "/tmp/d-1161027-2197-1pbh9/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-1161027-2197-1pbh9/package.tgz",
+  "_shasum": "df68d9936c61111fd8d33bd5cc5d16d4f4cd71a7",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-1161027-2197-1pbh9/package.tgz",
+  "_where": "/tmp/apm-install-dir-1161027-2197-3ysre",
+  "bugs": {
+    "url": "https://github.com/ramazan360/ace-material-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "Atom Material inspired syntax theme.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/ramazan360/ace-material-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "ambiance",
+    "material",
+    "dark"
+  ],
+  "license": "MIT",
+  "name": "ace-material-syntax",
+  "optionalDependencies": {},
+  "readme": "# ace-material-syntax\n\nA customized version of [Atom Material Syntax](https://github.com/atom-material/atom-material-syntax-dark) that looks pretty natural and you never tire looking at your screen.[the background feels so easy on eyes.].\n\n**NOTE:** Use dark ui theme.\n## Install\n```\napm install ace-material-syntax\n  ```\n\n## In Screenshots:\n**UI theme:** Atom-One-Dark\n\n**Font:** Code New Roman\n\n# C\n![screenshot of c.](https://s18.postimg.org/6v9hkeksp/image.png)\n# CSS\n![screenshot of css.](https://s21.postimg.org/lmw024293/css.png)\n# HTML\n![screenshot of html.](https://s16.postimg.org/kc7bbzm9x/html.png)\n# JS\n![screenshot of javascript](https://s21.postimg.org/aosqhsw1j/image.png)\n# JSON\n![screenshot of json.](https://s13.postimg.org/dx7nfvepj/json.png)\n# LESS\n![screenshot of less.](https://s13.postimg.org/3ozfmjsl3/less.png)\n# PHP\n![screenshot of php.](https://s18.postimg.org/j4jrvzn3t/php.png)\n# PYTHON\n![screenshot of python.](https://s4.postimg.org/9i3kmm899/python.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramazan360/ace-material-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "1.1.0"
+}

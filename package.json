@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "_args": [
     [
       {
@@ -46,6 +47,12 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "homepage": "https://github.com/ramazan360/ace-material-syntax#readme",
+=======
+  "name": "ace-material-syntax",
+  "theme": "syntax",
+  "version": "1.5.0",
+  "description": "Atom Material inspired syntax theme.",
+>>>>>>> cc3104499a44d323f6721c6e97dc22706f88b694
   "keywords": [
     "syntax",
     "theme",
@@ -53,6 +60,7 @@
     "material",
     "dark"
   ],
+<<<<<<< HEAD
   "license": "MIT",
   "name": "ace-material-syntax",
   "optionalDependencies": {},
@@ -64,4 +72,11 @@
   },
   "theme": "syntax",
   "version": "1.1.0"
+=======
+  "repository": "https://github.com/ramazan360/ace-material-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+>>>>>>> cc3104499a44d323f6721c6e97dc22706f88b694
 }

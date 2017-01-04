@@ -3,7 +3,7 @@
 
 atom-text-editor,
 :host {
-  background: linear-gradient(rgba(14,14,14,.3),rgba(4,6,66,0.2));
+  background: linear-gradient(rgba(0,0,0,.3),rgba(9,6,6,0.8));
 
   color: @syntax-text-color;
 }
@@ -93,7 +93,7 @@ atom-text-editor.is-focused .line.cursor-line,
 }
 .keyword {
       color: #1562FD;
-      font-weight: bold;
+      font-weight: italic;
 }
 .variable {
     color: #B2CCD6;
@@ -108,7 +108,7 @@ atom-text-editor.is-focused .line.cursor-line,
 .meta.function-call.method.with-arguments .variable.function,
 .source.js .meta.function-call.method.without-arguments.js .variable.function.js {
       color: rgba(147, 89, 255, 0.85);
-      font-weight: bold;
+      font-style: italic;
 }
 .support.class,
 .entity.name.class,
@@ -128,7 +128,7 @@ atom-text-editor.is-focused .line.cursor-line,
 }
 .storage {
     color: rgb(10, 172, 223);
-    font-style: italic;
+    font-weight:;
 }
 .support.function,
 .keyword.operator,
@@ -149,7 +149,7 @@ atom-text-editor.is-focused .line.cursor-line,
 }
 .variable.other
 {
-  color: #ff6e26;
+  color: @syntax-text-color;
 }
 .string,
 .constant.other.symbol,
@@ -174,7 +174,7 @@ atom-text-editor.is-focused .line.cursor-line,
 .entity.name.tag,
 .text.html.basic .meta.tag.other.html .entity.other.attribute-name.html {
       color: #da4646;
-      font-weight: bold !important;
+      font-weight: italic !important;
       font-style: normal !important;
 
 }
@@ -205,7 +205,7 @@ atom-text-editor.is-focused .line.cursor-line,
 .markup.bold,
 .punctuation.definition.bold,
 .todo.bold {
-    font-weight: bold;
+    font-weight: italic;
     color: #ffcb6b;
 }
 .markup.italic,
@@ -421,7 +421,7 @@ atom-text-editor.is-focused .line.cursor-line,
     color: #FFEB95;
 }
 .meta .string.quoted{
-  color: #8fe413 !important;
+  color: #76b52f !important;
   font-style: normal;
 }
 .punctuation

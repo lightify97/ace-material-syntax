@@ -38,7 +38,7 @@
   "_spec": "/tmp/d-1161027-2197-1pbh9/package.tgz",
   "_where": "/tmp/apm-install-dir-1161027-2197-3ysre",
   "bugs": {
-    "url": "https://github.com/ramazan360/ace-material-syntax/issues"
+    "url": "https://github.com/lightify97/ace-material-syntax/issues"
   },
   "dependencies": {},
   "description": "Atom Material inspired syntax theme.",
@@ -46,7 +46,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "homepage": "https://github.com/ramazan360/ace-material-syntax#readme",
+  "homepage": "https://github.com/lightify97/ace-material-syntax#readme",
 
   "keywords": [
     "syntax",
@@ -62,7 +62,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramazan360/ace-material-syntax.git"
+    "url": "git+https://github.com/lightify97/ace-material-syntax.git"
   },
   "theme": "syntax",
   "version": "1.1.0"
